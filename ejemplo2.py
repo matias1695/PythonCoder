@@ -3,7 +3,8 @@ def msj():
     
 msj()
 
-def sumar(n1,n2):
-    print("el resultado de la suma es: ",n1+n2)
+def restar(n1,n2):
+    print("el resultado de la resta es: ",n1-n2)
     
-sumar(int(input("Ingrese el primer numero")),int(input("Ingrese el segundo numero")))
+restar(int(input("Ingrese el primer numero")),int(input("Ingrese el segundo numero")))
+
