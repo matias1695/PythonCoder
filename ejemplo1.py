@@ -17,3 +17,6 @@ def multiplicar(n1,n2):
     print("el resultado de la multiplicacion es: ",n1*n2)
     
 multiplicar(int(input("Ingrese el primer numero")),int(input("Ingrese el segundo numero")))
+
+def msj3():
+    print("Estoy en la rama matias")
